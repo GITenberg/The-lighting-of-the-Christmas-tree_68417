@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xml:base="http://www.gutenberg.org/"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:pgterms="http://www.gutenberg.org/2009/pgterms/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:marcrel="http://id.loc.gov/vocabulary/relators/"
+  xmlns:dcam="http://purl.org/dc/dcam/"
+  xmlns:cc="http://web.resource.org/cc/"
+>
+  <pgterms:ebook rdf:about="ebooks/68417">
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/ebooks/68417.txt.utf-8">
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Naadbd04176c04d788390ed68e6b0234c">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">58102</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-06-28T09:00:09.485811</dcterms:modified>
+        <dcterms:isFormatOf rdf:resource="ebooks/68417"/>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/cache/epub/68417/pg68417.cover.medium.jpg">
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-06-28T09:00:14.517870</dcterms:modified>
+        <dcterms:isFormatOf rdf:resource="ebooks/68417"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15659</dcterms:extent>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N0634dc8803414487a01b075d4ba88434">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">image/jpeg</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:title>The lighting of the Christmas tree</dcterms:title>
+    <pgterms:marc905>20210118014007lagerlf</pgterms:marc905>
+    <dcterms:publisher>Project Gutenberg</dcterms:publisher>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/ebooks/68417.epub.images">
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-06-28T09:00:15.851865</dcterms:modified>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">267705</dcterms:extent>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N773d661a289244a59cde390698f2b2a6">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/epub+zip</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:isFormatOf rdf:resource="ebooks/68417"/>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <pgterms:marc906>1917</pgterms:marc906>
+    <dcterms:rights>Public domain in the USA.</dcterms:rights>
+    <dcterms:creator>
+      <pgterms:agent rdf:about="2009/agents/1717">
+        <pgterms:alias>Lagerlöf, Selma Ottiliana Lovisa</pgterms:alias>
+        <pgterms:alias>Lagerlof, Selma</pgterms:alias>
+        <pgterms:birthdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1858</pgterms:birthdate>
+        <pgterms:webpage rdf:resource="https://fi.wikipedia.org/wiki/Selma_Lagerl%C3%B6f"/>
+        <pgterms:name>Lagerlöf, Selma</pgterms:name>
+        <pgterms:deathdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1940</pgterms:deathdate>
+        <pgterms:webpage rdf:resource="https://en.wikipedia.org/wiki/Selma_Lagerlöf"/>
+        <pgterms:alias>Lagerloef, Selma</pgterms:alias>
+        <pgterms:webpage rdf:resource="https://sv.wikipedia.org/wiki/Selma_Lagerl%C3%B6f"/>
+      </pgterms:agent>
+    </dcterms:creator>
+    <pgterms:downloads rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">474</pgterms:downloads>
+    <pgterms:marc508>Tim Lindell and the Online Distributed Proofreading Team at https://www.pgdp.net (This file was produced from images generously made available by The Internet Archive/American Libraries.)</pgterms:marc508>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/ebooks/68417.kindle.images">
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">581882</dcterms:extent>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Nada8b599d61e43aaa09b4652ec08036e">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/x-mobipocket-ebook</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:isFormatOf rdf:resource="ebooks/68417"/>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-06-28T09:00:18.190940</dcterms:modified>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/cache/epub/68417/pg68417.cover.small.jpg">
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2288</dcterms:extent>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N90e5f7c3fde54da89ea9356ef631a3c8">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">image/jpeg</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-06-28T09:00:14.324856</dcterms:modified>
+        <dcterms:isFormatOf rdf:resource="ebooks/68417"/>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:language>
+      <rdf:Description rdf:nodeID="Nc6460706b2a44f91934966d8964ca766">
+        <rdf:value rdf:datatype="http://purl.org/dc/terms/RFC4646">en</rdf:value>
+      </rdf:Description>
+    </dcterms:language>
+    <marcrel:edt>
+      <pgterms:agent rdf:about="2009/agents/54767">
+        <pgterms:name>Buck, Gertrude</pgterms:name>
+      </pgterms:agent>
+    </marcrel:edt>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/files/68417/68417-h/68417-h.htm">
+        <dcterms:isFormatOf rdf:resource="ebooks/68417"/>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Nea3ea4139c0542878f0baa5b5058d4ed">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/html</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">84976</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-06-28T07:24:53</dcterms:modified>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/ebooks/68417.rdf">
+        <dcterms:isFormatOf rdf:resource="ebooks/68417"/>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N6b66bb66323c4d93b3efc51546ddbd7e">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/rdf+xml</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-06-28T09:00:18.363878</dcterms:modified>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7552</dcterms:extent>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/files/68417/68417-0.txt">
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">58102</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-06-28T07:24:53</dcterms:modified>
+        <dcterms:isFormatOf rdf:resource="ebooks/68417"/>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N1adf8b7b963b46159ef7afd664537784">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=us-ascii</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:creator>
+      <pgterms:agent rdf:about="2009/agents/54765">
+        <pgterms:name>Palmer, Josephine L.</pgterms:name>
+      </pgterms:agent>
+    </dcterms:creator>
+    <dcterms:creator>
+      <pgterms:agent rdf:about="2009/agents/54766">
+        <pgterms:name>Thorp, Annie L.</pgterms:name>
+      </pgterms:agent>
+    </dcterms:creator>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/files/68417/68417-0.zip">
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Nbf0a857205b44b07a2bc8805925940b3">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/zip</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:isFormatOf rdf:resource="ebooks/68417"/>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-06-28T07:25:13</dcterms:modified>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22297</dcterms:extent>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N28ba702768054316bd124ff9fdb1c9e8">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value>application/octet-stream</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/files/68417/68417-h.zip">
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N414a0e92cada4142a1c43c3f33b1b496">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value>application/octet-stream</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N0fadf955b7f54d85bb0aaa867a5582bf">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/zip</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-06-28T07:25:13</dcterms:modified>
+        <dcterms:isFormatOf rdf:resource="ebooks/68417"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">851574</dcterms:extent>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:license rdf:resource="license"/>
+    <pgterms:marc907>US</pgterms:marc907>
+    <pgterms:marc904>https://archive.org/details/lightingofchrist00palm/page/n1/mode/2up</pgterms:marc904>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/ebooks/68417.html.images">
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">83287</dcterms:extent>
+        <dcterms:isFormatOf rdf:resource="ebooks/68417"/>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-06-28T09:00:09.967814</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Nce166b2127ce41c399dd8ebbf0e8fe33">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/html</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/ebooks/68417.kindle.noimages">
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Naca94f9d5c904dcaaaba0940efe0d871">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/x-mobipocket-ebook</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-06-28T09:00:14.090854</dcterms:modified>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">456814</dcterms:extent>
+        <dcterms:isFormatOf rdf:resource="ebooks/68417"/>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/ebooks/68417.epub.noimages">
+        <dcterms:isFormatOf rdf:resource="ebooks/68417"/>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N5e1f736a22df41acb83813d7db5e8ec2">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/epub+zip</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">127397</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-06-28T09:00:11.733825</dcterms:modified>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <pgterms:marc260>United States :Samuel French,1917,copyright 1921.</pgterms:marc260>
+    <dcterms:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-06-28</dcterms:issued>
+  </pgterms:ebook>
+  <cc:Work rdf:about="">
+    <rdfs:comment>Archives containing the RDF files for *all* our books can be downloaded at
+            https://www.gutenberg.org/wiki/Gutenberg:Feeds#The_Complete_Project_Gutenberg_Catalog</rdfs:comment>
+    <cc:license rdf:resource="https://creativecommons.org/publicdomain/zero/1.0/"/>
+  </cc:Work>
+  <rdf:Description rdf:about="https://en.wikipedia.org/wiki/Selma_Lagerlöf">
+    <dcterms:description>en.wikipedia</dcterms:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://fi.wikipedia.org/wiki/Selma_Lagerl%C3%B6f">
+    <dcterms:description>fi.wikipedia</dcterms:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://sv.wikipedia.org/wiki/Selma_Lagerl%C3%B6f">
+    <dcterms:description>sv.wikipedia</dcterms:description>
+  </rdf:Description>
+</rdf:RDF>

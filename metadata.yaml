@@ -1,0 +1,47 @@
+_repo: The-lighting-of-the-Christmas-tree_68417
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Lagerlöf, Selma
+    aliases:
+    - Lagerlöf, Selma Ottiliana Lovisa
+    - Lagerlof, Selma
+    - Lagerloef, Selma
+    birthdate: 1858
+    deathdate: 1940
+    gutenberg_agent_id: '1717'
+    url: http://www.gutenberg.org/2009/agents/1717
+    wikipedia:
+    - https://fi.wikipedia.org/wiki/Selma_Lagerl%C3%B6f
+    - https://en.wikipedia.org/wiki/Selma_Lagerlöf
+    - https://sv.wikipedia.org/wiki/Selma_Lagerl%C3%B6f
+  - agent_name: Palmer, Josephine L.
+    gutenberg_agent_id: '54765'
+    url: http://www.gutenberg.org/2009/agents/54765
+  - agent_name: Thorp, Annie L.
+    gutenberg_agent_id: '54766'
+    url: http://www.gutenberg.org/2009/agents/54766
+  editor:
+    agent_name: Buck, Gertrude
+    gutenberg_agent_id: '54767'
+    url: http://www.gutenberg.org/2009/agents/54767
+description: ''
+gutenberg_issued: '2022-06-28'
+identifiers:
+  gutenberg: '68417'
+language: en
+pgterms:marc904: https://archive.org/details/lightingofchrist00palm/page/n1/mode/2up
+pgterms:marc905: 20210118014007lagerlf
+pgterms:marc906: '1917'
+pgterms:marc907: US
+production_note: Tim Lindell and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: United States :Samuel French,1917,copyright 1921.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The lighting of the Christmas tree
+url: http://www.gutenberg.org/ebooks/68417
